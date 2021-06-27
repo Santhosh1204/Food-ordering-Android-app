@@ -8,10 +8,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="backgroundopacity">#AB363535</color>
-    <color name="startcolorgradient">#443C20</color>
-    <color name="endcolorgradient">#e8a564</color>
-    <color name="fbcolor">#3c62acr</color>
-    <color name="tintlogocolor">#AC7A4A</color>
-    <color name="goooglecolor" >#C3463B</color>
+    <color name="background_opacity">#AB363535</color>
+    <color name="start_color_gradient">#FF443C20</color>
+    <color name="end_color_gradient">#FFe8a564</color>
+    <color name="fb_color">#2D66D7</color>
+    <color name="tint_logo_color">#FFAC7A4A</color>
+    <color name="google_color" >#FFC3463B</color>
 </resources>

@@ -11,7 +11,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/backgroundopacity"
+        android:background="@color/background_opacity"
         />
 
     <LinearLayout
@@ -34,7 +34,7 @@
             app:srcCompat="@drawable/foodlogo" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/btnlogin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="30dp"
@@ -42,12 +42,11 @@
             android:layout_marginTop="50dp"
             android:layout_marginEnd="30dp"
             android:layout_marginRight="30dp"
-            android:background="@drawable/btn_gradient"
             android:padding="8dp"
             android:text="Login" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/btnsignUp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="30dp"
